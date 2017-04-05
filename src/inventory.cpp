@@ -18,6 +18,7 @@ bool inventory::addBook(book obj){
 void inventory::orderBook(string title){
     //PRE: none
     //POST: the list size will be incremented and a new book will be in stock
+    //this is a test
     }
 
 void inventory::sellStock(string title){
